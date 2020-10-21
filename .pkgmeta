@@ -1,0 +1,6 @@
+package-as: SubscribePopupBlocker
+enable-nolib-creation: no
+
+ignore:
+    - LICENSE
+    - .script

@@ -1,0 +1,1 @@
+curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -p 414562 -g 9.0.1
