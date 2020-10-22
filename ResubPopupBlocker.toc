@@ -1,6 +1,0 @@
-## Interface: 90001
-## Title: Subscribe Popup Blocker
-## Version: @project-version@
-## Notes: Blocks the subscribe popup that appears when trials login.
-
-src.lua
